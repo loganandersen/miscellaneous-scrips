@@ -1,0 +1,25 @@
+# Note this gitignore is ai generated, everything else is my own work
+# Vim swap/backup files
+*.swp
+*.swo
+*.swm
+*.swl
+*.sw?
+*~
+
+# Vim session files
+Session.vim
+
+# Emacs backup files
+*~
+\#*\#
+.#*
+
+# Emacs auto-save lists
+auto-save-list/
+
+# Emacs tramp files
+.tramp
+
+# Emacs project/workspace files
+.projectile
